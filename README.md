@@ -81,10 +81,10 @@ The project combines multiple data sources:
 **When are the most profitable hours to drive Uber, and how do external variables such as weather, cruise ship arrivals and flight schedules influence ride demand and driver earnings?**
 ---
 ## Current Progress
--Completed: Data Collection
--In progress: Data Cleaning
--Planned: Data Merging
--Planned: Exploratory Data Analysis
--Planned: Data Visualizations
--Planned: Machine Leaning
+- Completed: Data Collection
+- In progress: Data Cleaning
+- Planned: Data Merging
+- Planned: Exploratory Data Analysis
+- Planned: Data Visualizations
+- Planned: Machine Leaning
 
