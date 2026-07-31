@@ -20,7 +20,7 @@ External datasets include:
 - Flight schedules
 ---
 
-#Project Workflow
+# Project Workflow
 ### 1. Data Collection 
 The project combines multiple data sources:
 - Personal Uber driver trip history exported from the Uber driver website.
