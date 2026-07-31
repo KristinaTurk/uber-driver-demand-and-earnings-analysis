@@ -21,13 +21,17 @@ External datasets include:
 ---
 
 # Project Workflow
-### 1. Data Collection 
+## 1. Data Collection 
 The project combines multiple data sources:
 - Personal Uber driver trip history exported from the Uber driver website.
 - Weather data collected through a public weather API.
 - Cruise ship arrival schedules extracted from publicaly available PDF documents.
 **Planned data source**
 -Flight schedules (not included due to limited access to historical flight data)
+## Initial Data Inspection
+- Before starting the data cleaning process, the raw dataset was reviewed in Excel to understand its structure and identify any notable patterns.
+**Key initial observation:**
+- Comparing the peak-demand months of July and August, the base fare decreased from **€1.79** in 2024 to **€1.48** in 2025, representing an approximate 17% reduction.
 ## 2. Data Cleaning
 - Removed cancelled and incomplete trips
 - Removed irrelevant columns
