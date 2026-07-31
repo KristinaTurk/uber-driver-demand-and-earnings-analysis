@@ -30,7 +30,7 @@ The project combines multiple data sources:
 -Flight schedules (not included due to limited access to historical flight data)
 ## Initial Data Inspection
 - Before starting the data cleaning process, the raw dataset was reviewed in Excel to understand its structure and identify any notable patterns.
-**Key initial observation:**
+- **Key initial observation:**
 - Comparing the peak-demand months of July and August, the base fare decreased from **€1.79** in 2024 to **€1.48** in 2025, representing an approximate 17% reduction.
 ## 2. Data Cleaning
 - Removed cancelled and incomplete trips
