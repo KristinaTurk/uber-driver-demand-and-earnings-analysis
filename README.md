@@ -171,6 +171,14 @@ Higher ride frequency, higher average fares, and greater time-adjusted fare effi
 
 Effective driving schedule optimisation therefore requires considering multiple performance indicators rather than focusing exclusively on ride volume or trip prices.
 ---
+# Data Visualisations
+
+Six final visualisations were developed to communicate the key findings of the analysis.
+
+The charts illustrate hourly ride activity, average trip fares, driving performance across weekdays and time blocks, weather-related patterns, and the relationship between cruise ship arrivals and fare efficiency.
+
+Together, these visualisations highlight the importance of considering multiple performance indicators when evaluating potential driving opportunities.
+---
 ## Technologies
 - Python
 - Jupyter Notebook
