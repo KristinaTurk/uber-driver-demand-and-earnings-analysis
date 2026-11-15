@@ -178,6 +178,23 @@ Six final visualisations were developed to communicate the key findings of the a
 The charts illustrate hourly ride activity, average trip fares, driving performance across weekdays and time blocks, weather-related patterns, and the relationship between cruise ship arrivals and fare efficiency.
 
 Together, these visualisations highlight the importance of considering multiple performance indicators when evaluating potential driving opportunities.
+### 1. Hourly Ride Activity
+![Hourly Ride Activity](05_data_visualisation/01_hourly_ride_activity.png)
+
+### 2. Average Fare by Hour
+![Average Fare by Hour](05_data_visualisation/02_average_fare_by_hour.png)
+
+### 3. Driving Performance Heatmap
+![Driving Performance Heatmap](05_data_visualisation/03_driving_performance_heatmap.png)
+
+### 4. Weather Impact
+![Weather Impact](05_data_visualisation/04_weather_impact.png)
+
+### 5. Cruise Ship Impact
+![Cruise Ship Impact](05_data_visualisation/05_cruise_ship_impact.png)
+
+### 6. Cruise Fare Efficiency
+![Cruise Fare Efficiency](05_data_visualisation/06_cruise_fare_efficiency.png)
 ---
 ## Technologies
 - Python
@@ -192,21 +209,15 @@ Together, these visualisations highlight the importance of considering multiple 
 '''
 01_data_collection/
 02_data_cleaning/
-03_data_merging/
-04_eda/
-05_visualizations/
-06_machine_learning/
+03_data_integration/
+04_exploratory_data_analysis/
+05_data_visualisation/
+06_conclusions/
+READNE.md
 '''
 
 ---
 ## Key Business Question
 **When are the most profitable hours to drive Uber, and how do external variables such as weather, cruise ship arrivals and flight schedules influence ride demand and driver earnings?**
 ---
-## Current Progress
-- Completed: Data Collection
-- In progress: Data Cleaning
-- Planned: Data Merging
-- Planned: Exploratory Data Analysis
-- Planned: Data Visualizations
-- Planned: Machine Leaning
 
